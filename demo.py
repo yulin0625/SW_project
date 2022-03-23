@@ -2,9 +2,6 @@ import easyocr
 import cv2
 import argparse
 
-# img_path = "score.jpg"
-
-
 
 def main():
     parser = argparse.ArgumentParser(description='text OCR.')

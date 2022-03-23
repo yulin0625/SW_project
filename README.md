@@ -13,4 +13,8 @@ pip install git+git://github.com/jaidedai/easyocr.git
 pip install -r requirements.txt
 
 ## usage
+### demo.py
 python demo.py --img_path score.jpg
+
+### recongnize.py
+python recongnize.py --img_path score.jpg
